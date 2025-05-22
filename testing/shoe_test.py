@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from shoe import Shoe
+from lib.shoe import Shoe
 
 import io
 import sys
